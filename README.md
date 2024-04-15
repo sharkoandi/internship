@@ -1,6 +1,6 @@
 # Java Internship
 
-Welcome to my Java internship repository! This repository contains exercises, projects, and code samples related to my Java internship.
+Welcome to Java internship repository! This repository contains exercises, projects, and code samples related to Java internship.
 
 ## How to Use
 
