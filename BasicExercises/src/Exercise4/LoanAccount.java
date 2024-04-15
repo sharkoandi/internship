@@ -2,9 +2,9 @@ package Exercise4;
 
 public class LoanAccount extends BankAccount {
 
+
     double interestRate;
     double loanTime;
-
     double loanAmount;
 
     public LoanAccount(double moneyInAccount, double interestRate, double loanTime, double loanAmount) {
@@ -21,6 +21,8 @@ public class LoanAccount extends BankAccount {
 
     //mqs po terheqim nga nje loan account a do sihte nevoja te benim calculate
     // edhe njeher interesin? mqs u rrit vlera e marre borxh
+
+    //withdraw/deposit per llogarine bankare apo per te marre/shlyer loan e marre?
     @Override
     public void withdraw(double amount) {
         super.withdraw(amount);
