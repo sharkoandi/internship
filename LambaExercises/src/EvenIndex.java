@@ -25,5 +25,9 @@ public class EvenIndex {
         };
 
         System.out.println("Indexet cift:"+indexes.elIndexes(arr));
+        List<Integer> list = indexes.elIndexes(arr);
+        for (int j=0;j<list.size();j++){
+            System.out.print(arr[list.get(j)]+ " ");
+        }
     }
 }
