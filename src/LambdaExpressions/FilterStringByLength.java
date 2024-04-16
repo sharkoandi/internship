@@ -1,6 +1,5 @@
 package LambdaExpressions;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class FilterStringByLength {

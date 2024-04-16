@@ -18,7 +18,7 @@ public class CountEvenNumbers {
 
         ElementInterface<Integer> getSumOfEven = arr -> {
 
-            Integer sum = 0;
+            int sum = 0;
 
             for (Integer i:
                  arr) {
